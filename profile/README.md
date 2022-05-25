@@ -13,4 +13,4 @@ Per quei casi, il Dipartimento per la trasformazione digitale mantiene i publicc
 In generale prediligi sempre l’inserimento di publiccode.yml nel repository originale. 
 Se però sei a conoscenza di un software open source che ritieni debba essere inserito in Catalogo,
 ma che si trova nella situazione descritta sopra, puoi proporre di aggiungerlo in questa 
-Organizzazione [aprendo una issue](https://github.com/italia-software/utils). ([policy di ammissione al Catalogo](https://docs.italia.it/italia/developers-italia/policy-inserimento-catalogo-docs/it/stabile/approvazione-del-software-a-catalogo.html)).
+Organizzazione [aprendo una issue](https://github.com/italia-software/utils/issues). ([policy di ammissione al Catalogo](https://docs.italia.it/italia/developers-italia/policy-inserimento-catalogo-docs/it/stabile/approvazione-del-software-a-catalogo.html)).
