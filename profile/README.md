@@ -1,6 +1,6 @@
 # Italia-software
 
-Questa Organizzazione contiene i publiccode.yml di software open source di terze parti per il 
+Questa Organizzazione contiene i `publiccode.yml` di software open source di terze parti per il 
 [Catalogo di Developers Italia](https://developers.italia.it/en/search).
 
 Molti progetti open source interessanti per la Pubblica Amministrazione non sono presenti 
