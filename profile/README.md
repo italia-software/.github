@@ -8,7 +8,7 @@ nel Catalogo poiché non hanno ancora un `publiccode.yml` nel loro repository.
 A volte i maintainer di software popolari e utili, specialmente fuori dall’Italia,
 non sono a conoscenza dello [Standard](https://yml.publiccode.tools/) o non hanno interesse a usarlo.
 
-Per quei casi, il Dipartimento per la trasformazione digitale mantiene i publiccode.yml in questa organizzazione al posto dei maintainer originali.
+Per quei casi, il Dipartimento per la trasformazione digitale mantiene i `publiccode.yml` in questa organizzazione al posto dei maintainer originali.
 
 In generale prediligi sempre l’inserimento di publiccode.yml nel repository originale. 
 Se però sei a conoscenza di un software open source che ritieni debba essere inserito in Catalogo,
