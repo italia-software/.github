@@ -1,2 +1,1 @@
-# .github
-Documentation for italia-software
+profile/README.md
