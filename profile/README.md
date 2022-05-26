@@ -4,7 +4,7 @@ Questa Organizzazione contiene i `publiccode.yml` di software open source di ter
 [Catalogo di Developers Italia](https://developers.italia.it/en/search).
 
 Molti progetti open source interessanti per la Pubblica Amministrazione non sono presenti 
-nel Catalogo poiché non hanno ancora un publiccode.yml nel loro repository.
+nel Catalogo poiché non hanno ancora un `publiccode.yml` nel loro repository.
 A volte i maintainer di software popolari e utili, specialmente fuori dall’Italia,
 non sono a conoscenza dello [Standard](https://yml.publiccode.tools/) o non hanno interesse a usarlo.
 
