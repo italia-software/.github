@@ -1,0 +1,39 @@
+name: Suggerimento per italia-software
+description: Segnala un nuovo software per italia-software
+title: "[suggest]: "
+labels: ["suggestion","triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per la tua segnalazione
+  - type: checkboxes
+    id: policy
+    attributes:
+      label: Rispetto delle policy
+      description: Conferma di aver verificato il rispetto delle policy
+      options:
+        - label: Ho verificato che il software rispetta le [policy per l''inserimento nel catalogo](https://docs.italia.it/italia/developers-italia/policy-inserimento-catalogo-docs/it/stabile/approvazione-del-software-a-catalogo.html)
+          required: true
+  - type: input
+    id: nome-software
+    attributes:
+      label: Come si chiama il software?
+    validations:
+      required: true
+  - type: textarea
+    id: ragione
+    attributes:
+      label: Quali sono le ragioni per cui ritieni che il software debba essere inserito a catalogo?
+    validations:
+      required: true
+  - type: checkboxes
+    id: azioni-preliminari
+    attributes:
+      label: Azioni preliminari
+      description: Conferma di aver svolto tutte le azioni di seguito
+      options:
+        - label: Ho verificato che il software non è già presente nel [Catalogo](https://developers.italia.it/it/search?type=software_open&sort_by=release_date&page=0)
+          required: true
+        - label: Ho verificato che il software originale non contiene un publiccode.yml
+          required: true
